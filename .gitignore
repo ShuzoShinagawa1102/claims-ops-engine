@@ -1,0 +1,8 @@
+claims.db
+backend/claims.db
+backend/**/__pycache__/
+backend/**/*.pyc
+backend/**/*.pyo
+*.pyc
+*.pyo
+__pycache__/
